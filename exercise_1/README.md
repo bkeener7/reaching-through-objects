@@ -2,7 +2,6 @@
 
 ## Instructions
 On "Adlington Road", there are many buildings with apartments for rent. You are the owner of these apartment buildings. You need a way to manage your apartments, schedule maintenance and upkeep, and charge rent. But, to start with, we need to be able to see where all the rooms are.
-
 Following the instructions below, use Test-Driven Development to create an object-oriented solution to the problem described. Use classes for `Room`, `Apartment`, `Building`, and `Street`.
 
 
